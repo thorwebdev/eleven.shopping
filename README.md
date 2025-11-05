@@ -72,9 +72,6 @@ Create a `.env.local` file in the root directory:
 # ElevenLabs Configuration
 AGENT_ID=your_agent_id_here
 ELEVENLABS_API_KEY=your_api_key_here
-
-# Optional: Custom store configuration
-STORE_URL=your-shopify-store.myshopify.com
 ```
 
 ### 5. Run the Development Server
@@ -178,7 +175,6 @@ Customize the appearance using Tailwind CSS:
 | -------------------- | ------------------------ | -------- |
 | `AGENT_ID`           | Your ElevenLabs Agent ID | ✅       |
 | `ELEVENLABS_API_KEY` | Your ElevenLabs API key  | ✅       |
-| `STORE_URL`          | Custom Shopify store URL | ❌       |
 
 ### Key Endpoints
 
