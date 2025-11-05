@@ -228,7 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: [support@eleven.shopping](mailto:support@eleven.shopping)
 - 💬 Discord: [Join our community](https://discord.gg/elevenlabs)
 - 📖 Documentation: [ElevenLabs Agents Docs](https://elevenlabs.io/docs/agents)
 - 🐛 Issues: [GitHub Issues](https://github.com/thorwebdev/conversational-commerce/issues)
