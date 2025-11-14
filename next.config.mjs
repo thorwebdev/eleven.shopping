@@ -9,6 +9,15 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+  async redirects() {
+    return [
+      {
+        source: "/(.*)",
+        destination: "https://github.com/elevenlabs/eleven.shopping",
+        permanent: true,
+      },
+    ];
+  },
+};
 
-export default nextConfig
+export default nextConfig;
